@@ -4,7 +4,7 @@ This is a simple bash script for MacOS allowing the user to search for a specifi
 
 ## Usage
 
-Download the file or simply copy-paste its content, open your terminal and navigate to the file's folder and make the file executable:
+Download the file or simply copy-paste its content into a new file. Open your terminal, navigate to its folder and make it executable:
 > chmod +x myfile.bash
 
 Then you can call it by doing, for example:
