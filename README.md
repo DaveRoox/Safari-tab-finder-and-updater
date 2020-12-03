@@ -1,6 +1,6 @@
 # Safari-tab-finder-and-updater
 
-his is a bash script for MacOS allowing the user to search for a specific tab in your Safari windows, given part of the text in the tab’s name, and to refresh that tab to a specific URL every N seconds.
+This is a bash script for MacOS allowing the user to search for a specific tab in your Safari windows, given part of the text in the tab’s name, and to refresh that tab to a specific URL every N seconds.
 
 ## Usage
 
